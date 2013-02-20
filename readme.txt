@@ -1,7 +1,3 @@
-A list of the files in our submission and what they do:
-
-==========
-
 How to compile and run this program?
 
 1. Launch your terminal.

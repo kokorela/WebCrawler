@@ -42,9 +42,6 @@ A list of special features beyond the basic requirements:
    are maintained in these two functions store visited url information and visited site information, including 
    arrival time, how many times, and robot protocol.
 
-8. We are using GitHub for version control. We also build up a web page and a wiki page for this project. See
-   http://charnugagoo.github.com/WebCrawler/
-
 ==========
 
 How to compile and run this program?
